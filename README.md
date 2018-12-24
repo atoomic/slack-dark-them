@@ -1,4 +1,4 @@
-# slack-dark-them
+# slack setup dark theme
 dark theme for slack
 
 On a Mac, navigate to this directory:
