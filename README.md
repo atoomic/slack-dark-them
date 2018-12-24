@@ -13,7 +13,7 @@ Add this code to the very bottom
 ```
 document.addEventListener('DOMContentLoaded', function() {
  $.ajax({
-   url: 'https://raw.githubusercontent.com/atoomic/slack-dark-them/master/dark.css',
+   url: 'https://raw.githubusercontent.com/atoomic/slack-dark-theme/master/dark.css',
    success: function(css) {
      let overrides = `
      code { background-color: #535353; color: #85c5ff; } /* Change color: to whatever font color you want */
