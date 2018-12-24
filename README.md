@@ -10,7 +10,7 @@ Edit the file ssb-interop.js with a text editor.
 
 Add this code to the very bottom
 
-```
+```javascript
 document.addEventListener('DOMContentLoaded', function() {
  $.ajax({
    url: 'https://raw.githubusercontent.com/atoomic/slack-dark-theme/master/dark.css',
