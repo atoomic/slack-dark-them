@@ -6,6 +6,7 @@ On a Mac, navigate to this directory:
 `cd /Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static`
 
 Edit the file ssb-interop.js with a text editor.
+`open ssb-interop.js`
 
 Add this code to the very bottom
 
